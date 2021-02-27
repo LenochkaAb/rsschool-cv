@@ -1,6 +1,6 @@
 My CV
 Olena Abramska
-e-mail: abramskaya92@ukr.net
+e-mail: abramskaya92@ukr.net.
 I am 28. I want to be a front-end developer.
 My advantages: honest, flexible, understand 
 how to work in Teams, quickly learn.
